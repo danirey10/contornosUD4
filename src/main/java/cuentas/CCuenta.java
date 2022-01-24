@@ -12,6 +12,8 @@ public class CCuenta {
 
     /**
      * @return the nombre
+     * @version primera versión
+     * @since v1
      */
     public String getNombre() {
         return nombre;
