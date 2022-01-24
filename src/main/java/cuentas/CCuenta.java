@@ -20,55 +20,68 @@ public class CCuenta {
     }
 
     /**
-     * @param nombre the nombre to set
-     */
+     * Este método se encarga de coger el nombre del usuario
+     * @author Dani
+    */
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
 
     /**
-     * @return the cuenta
-     */
+     * Este método se encarga de coger la cuenta del usuario
+     * @author Dani
+     * @return cuenta
+    */
     public String getCuenta() {
         return cuenta;
     }
 
     /**
-     * @param cuenta the cuenta to set
-     */
+     * Este método se encarga de definitir la cuenta del usuario
+     * @author Dani
+    */
     public void setCuenta(String cuenta) {
         this.cuenta = cuenta;
     }
 
     /**
-     * @return the saldo
-     */
+     * Este método se encarga de recoger el saldo del usuario
+     * @author Dani
+     * @return Saldo del usuario
+    */
     public double getSaldo() {
         return saldo;
     }
 
     /**
-     * @param saldo the saldo to set
-     */
+     * Este método se encarga de definir el saldo del usuario
+     * @author Dani
+    */
     public void setSaldo(double saldo) {
         this.saldo = saldo;
     }
 
     /**
-     * @return the tipoInteres
-     */
+     * Este método se encarga de recoger el tipo de interés del usuario
+     * @author Dani
+     * @return Tipo de interes
+    */
     public double getTipoInteres() {
         return tipoInteres;
     }
 
     /**
-     * @param tipoInteres the tipoInteres to set
-     */
+     * Este método se encarga de definitir el tipo de interés del usuario
+     * @author Dani
+    */
     public void setTipoInteres(double tipoInteres) {
         this.tipoInteres = tipoInteres;
     }
 
 
+    /**
+     * Atributos
+    */
     private String nombre;
     private String cuenta;
     private double saldo;
@@ -90,6 +103,10 @@ public class CCuenta {
         return getSaldo();
     }
 
+    /**
+     * Método de ingresar
+     * @author Dani
+    */
     public void ingresar(double cantidad) throws Exception
     {
         if (cantidad<0)
@@ -97,6 +114,10 @@ public class CCuenta {
         setSaldo(getSaldo() + cantidad);
     }
 
+    /**
+     * Método de retirar
+     * @author Dani
+    */
     public void retirar(double cantidad) throws Exception
     {
         if (cantidad <= 0)

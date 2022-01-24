@@ -14,6 +14,10 @@ public class Main {
         operativa_cuenta();
     }
 
+    /**
+     * Este método se encarga mostrar el dinero del usuario
+     * @author Dani
+    */
     public static void operativa_cuenta() {
         CCuenta cuenta1;
         double saldoActual;
