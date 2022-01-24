@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'E:/TRABALLO/_DANI/CICLO/_Contornos-de-desenvolvemento/UD4/Tarefa/deposito/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/TRABALLO/_DANI/CICLO/_Contornos-de-desenvolvemento/UD4/Tarefa/deposito/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'deposito 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'E:/TRABALLO/_DANI/CICLO/_Contornos-de-desenvolvemento/UD4/Tarefa/deposito/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'deposito 1.0-SNAPSHOT API'
+cuentas
+'E:/TRABALLO/_DANI/CICLO/_Contornos-de-desenvolvemento/UD4/Tarefa/deposito/src/main/java/cuentas/CCuenta.java'
+'E:/TRABALLO/_DANI/CICLO/_Contornos-de-desenvolvemento/UD4/Tarefa/deposito/src/main/java/cuentas/Main.java'
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\src\main\java = 1642793137926
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\allclasses-index.html = 1643056442687
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\allclasses.html = 1643056442710
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\allpackages-index.html = 1643056442690
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\constant-values.html = 1643056442620
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\deprecated-list.html = 1643056442698
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\element-list = 1643056442600
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\help-doc.html = 1643056442721
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\index-all.html = 1643056442681
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\index.html = 1643056442714
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\member-search-index.js = 1643056442678
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\member-search-index.zip = 1643056442679
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\overview-tree.html = 1643056442643
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\package-search-index.js = 1643056442658
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\package-search-index.zip = 1643056442675
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\script.js = 1643056442735
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\search.js = 1643056442738
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\stylesheet.css = 1643056442733
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\type-search-index.js = 1643056442676
+E:\TRABALLO\_DANI\CICLO\_Contornos-de-desenvolvemento\UD4\Tarefa\deposito\target\site\apidocs\type-search-index.zip = 1643056442677
